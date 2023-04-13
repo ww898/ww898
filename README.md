@@ -5,3 +5,4 @@
 [![JetBrains.Profiler.SelfApi](https://github-readme-stats.vercel.app/api/pin/?username=jetbrains&repo=profiler-self-api&theme=nord)](https://github.com/jetbrains/profiler-self-api)
 [![JetBrains.FormatRipper / JetBrains.SignatureVerifier](https://github-readme-stats.vercel.app/api/pin/?username=jetbrains&repo=format-ripper&theme=nord)](https://github.com/jetbrains/format-ripper)
 [![JetBrains.HabitatDetector](https://github-readme-stats.vercel.app/api/pin/?username=jetbrains&repo=habitat-detector&theme=nord)](https://github.com/jetbrains/habitat-detector)
+[![JetBrains.DownloadPgpVerifier](https://github-readme-stats.vercel.app/api/pin/?username=jetbrains&repo=download-pgp-verifier&theme=nord)](https://github.com/jetbrains/download-pgp-verifier)
